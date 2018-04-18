@@ -9,7 +9,7 @@ I have a single file called `humdrumutils.sh` in which I place all my bash scrip
 ```
 #!/bin/bash
 
-source ~/humdrum-tools/humdrum-utils/utils.sh
+source ~/humdrum-tools/humdrum-utils/humdrumutils.sh
 
 (some script here)
 ```
