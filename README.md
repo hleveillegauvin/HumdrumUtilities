@@ -11,5 +11,5 @@ I have a single file called `humdrumutils.sh` in which I place all my bash scrip
 
 source ~/humdrum-tools/humdrum-utils/humdrumutils.sh
 
-(some script here)
+# (some script here)
 ```
